@@ -45,6 +45,7 @@ class RunMpesa extends Operation{
      case 2 : withdrawal();
      break;
      case 3 : status();
+      break;
    }
  }
 }
